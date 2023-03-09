@@ -1,0 +1,12 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "A bot to get user's channels based on their user name",
+  "main": "index.js",
+  "repository": "https://github.com/dasimems/telegram_bot_chan-et-groups.git",
+  "author": "dasimems",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
